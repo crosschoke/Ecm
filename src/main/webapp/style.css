@@ -1,0 +1,70 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+#appLayout {
+    height: 100%;
+}
+#viewList {
+    width: 20%;
+}
+
+#grid {
+    width: 99%;
+    height: 90%;
+    margin-top: 20px;
+}
+
+#addEmployerForm {
+    margin: 20px;
+}
+
+.addEmployerLabel {
+    display: block;
+    margin-top: 20px;
+}
+
+.addEmployerSpan {
+    display: inline-block;
+    width: 100px;
+}
+
+.addAssignmentLabel {
+    display: block;
+    margin-top: 20px;
+}
+
+.addAssignmentSpan {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+}
+
+.editorSpan {
+    display: inline-block; 
+    vertical-align: top;
+    margin-right: 100px;
+}
+
+.editorContainer {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.assignmentTextField {
+    width: 300px;
+}
+
+#findDiv {
+    display: inline-block;
+    position: absolute; 
+    right: 15px;
+}
+
+#findField {
+    height: 18px;
+    margin-left: 18px;
+}
